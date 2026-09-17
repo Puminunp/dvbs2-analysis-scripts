@@ -1,25 +1,25 @@
 file,total_packets,ip_packets,valid,validation_reason,unique_src_ips,unique_dst_ips,unique_pairs,pct_link_local_src,pct_private_src,pct_public_src,mean_plaintext_fraction,tcp_packets,udp_packets,other_proto_packets
 97.0W_11703.287_V_2667_(2026-05-19 19.52.19)_dump.ts.dvbs2.ip.pcap,1,1,False,too few IP packets (1),0,0,0,0,0,0,0,0,0,0
 97.0W_11703.288_V_2667_(2026-05-20 17.58.29)_dump.ts.dvbs2.ip.pcap,1,1,False,too few IP packets (1),0,0,0,0,0,0,0,0,0,0
-97.0W_11736.190_V_4000_(2026-05-20 18.03.57)_dump.ts.dvbs2.ip.pcap,212,212,False,no repeating src/dst pairs — likely false positive,0,0,0,0,0,0,0,0,0,0
+97.0W_11736.190_V_4000_(2026-05-20 18.03.57)_dump.ts.dvbs2.ip.pcap,212,212,False,no repeating src/dst pairs â€” likely false positive,0,0,0,0,0,0,0,0,0,0
 97.0W_11767.488_V_7000_(2026-05-20 18.09.18)_dump.ts.dvbs2.ip.pcap,0,0,False,too few IP packets (0),0,0,0,0,0,0,0,0,0,0
-97.0W_11842.488_H_22000_(2026-05-20 16.55.08)_dump.ts.dvbs2.ip.pcap,67,67,False,no repeating src/dst pairs — likely false positive,0,0,0,0,0,0,0,0,0,0
+97.0W_11842.488_H_22000_(2026-05-20 16.55.08)_dump.ts.dvbs2.ip.pcap,67,67,False,no repeating src/dst pairs â€” likely false positive,0,0,0,0,0,0,0,0,0,0
 97.0W_11865.485_H_10000_(2026-05-20 17.01.54)_dump.ts.dvbs2.ip.pcap,1,1,False,too few IP packets (1),0,0,0,0,0,0,0,0,0,0
 97.0W_11866.980_V_25713_(2026-05-19 19.57.18)_dump.ts.dvbs2.ip.pcap,6195,6195,True,ok,11,94,96,0.9103,0.0897,0.0,0.3443,158,602,5435
 97.0W_11866.986_V_25714_(2026-05-20 18.14.44)_dump.ts.dvbs2.ip.pcap,116288,116288,True,ok,67,355,357,0.984,0.0156,0.0004,0.3493,3904,1981,110403
 97.0W_11925.985_H_7273_(2026-05-20 17.09.14)_dump.ts.dvbs2.ip.pcap,1,1,False,too few IP packets (1),0,0,0,0,0,0,0,0,0,0
-97.0W_11966.479_H_21600_(2026-05-20 17.14.48)_dump.ts.dvbs2.ip.pcap,21,21,False,no repeating src/dst pairs — likely false positive,0,0,0,0,0,0,0,0,0,0
+97.0W_11966.479_H_21600_(2026-05-20 17.14.48)_dump.ts.dvbs2.ip.pcap,21,21,False,no repeating src/dst pairs â€” likely false positive,0,0,0,0,0,0,0,0,0,0
 97.0W_11981.863_V_3850_(2026-05-20 18.19.59)_dump.ts.dvbs2.ip.pcap,2096,2096,True,ok,10,15,17,0.0277,0.9704,0.0019,0.3195,52,2037,7
 97.0W_11989.979_H_10909_(2026-05-20 17.20.06)_dump.ts.dvbs2.ip.pcap,2702,2702,True,ok,11,28,29,0.7372,0.2624,0.0004,0.3497,194,711,1797
 97.0W_12000.227_V_3181_(2026-05-19 19.59.42)_dump.ts.dvbs2.ip.pcap,178,178,True,ok,66,29,77,0.4551,0.0449,0.5,0.2742,69,22,87
 97.0W_12000.233_V_3181_(2026-05-20 18.25.20)_dump.ts.dvbs2.ip.pcap,5966,5966,True,ok,454,49,607,0.0,0.1646,0.8354,0.2767,4082,1761,123
-97.0W_12009.479_H_2501_(2026-05-20 17.25.43)_dump.ts.dvbs2.ip.pcap,1063,1063,False,no repeating src/dst pairs — likely false positive,0,0,0,0,0,0,0,0,0,0
+97.0W_12009.479_H_2501_(2026-05-20 17.25.43)_dump.ts.dvbs2.ip.pcap,1063,1063,False,no repeating src/dst pairs â€” likely false positive,0,0,0,0,0,0,0,0,0,0
 97.0W_12009.483_V_2501_(2026-05-20 18.30.31)_dump.ts.dvbs2.ip.pcap,1025,1025,True,ok,1,996,996,0.0,1.0,0.0,0.3585,0,1025,0
-97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.ip.pcap,100,100,False,no repeating src/dst pairs — likely false positive,0,0,0,0,0,0,0,0,0,0
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.ip.pcap,100,100,False,no repeating src/dst pairs â€” likely false positive,0,0,0,0,0,0,0,0,0,0
 97.0W_12047.629_H_1182_(2026-05-20 17.36.40)_dump.ts.dvbs2.ip.pcap,325,325,True,ok,9,40,41,0.9477,0.0523,0.0,0.1439,177,22,126
-97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.ip.pcap,65,65,False,no repeating src/dst pairs — likely false positive,0,0,0,0,0,0,0,0,0,0
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.ip.pcap,65,65,False,no repeating src/dst pairs â€” likely false positive,0,0,0,0,0,0,0,0,0,0
 97.0W_12080.980_H_7273_(2026-05-20 17.42.14)_dump.ts.dvbs2.ip.pcap,44,44,True,ok,28,13,28,0.0,0.0,1.0,0.0329,32,2,10
-97.0W_12083.970_V_20760_(2026-05-19 20.04.30)_dump.ts.dvbs2.ip.pcap,22,22,False,no repeating src/dst pairs — likely false positive,0,0,0,0,0,0,0,0,0,0
-97.0W_12145.970_V_21999_(2026-05-19 20.07.05)_dump.ts.dvbs2.ip.pcap,41,41,False,no repeating src/dst pairs — likely false positive,0,0,0,0,0,0,0,0,0,0
-97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.ip.pcap,80,80,False,no repeating src/dst pairs — likely false positive,0,0,0,0,0,0,0,0,0,0
-97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.ip.pcap,76,76,False,no repeating src/dst pairs — likely false positive,0,0,0,0,0,0,0,0,0,0
+97.0W_12083.970_V_20760_(2026-05-19 20.04.30)_dump.ts.dvbs2.ip.pcap,22,22,False,no repeating src/dst pairs â€” likely false positive,0,0,0,0,0,0,0,0,0,0
+97.0W_12145.970_V_21999_(2026-05-19 20.07.05)_dump.ts.dvbs2.ip.pcap,41,41,False,no repeating src/dst pairs â€” likely false positive,0,0,0,0,0,0,0,0,0,0
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.ip.pcap,80,80,False,no repeating src/dst pairs â€” likely false positive,0,0,0,0,0,0,0,0,0,0
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.ip.pcap,76,76,False,no repeating src/dst pairs â€” likely false positive,0,0,0,0,0,0,0,0,0,0

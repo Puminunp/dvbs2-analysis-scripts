@@ -8,16 +8,30 @@ These scripts form the second stage of the pipeline: dontlookup.py decapsulates 
 
 ## Pipeline overview
 
+```mermaid
+flowchart TD
+    A["Raw capture<br/>capture.ts — raw DVB-S2(X) baseband"] -->|SDR + dish| B["dontlookup.py<br/>decapsulation"]
+    B -->|blind IPv4 checksum search| C[".ip.pcap files"]
+    B -->|188B sync scan| D[".mpegts files"]
+    C -->|"analyze_ip.py (Scapy)"| E["Validate &amp; classify<br/>≥10 pkts, repeat pairs, known proto"]
+    D -->|"analyze_mpegts.py (ffprobe)"| F["Program + TSC scan<br/>service, codec, scrambling"]
+    E -->|fails checks| G["Dropped<br/>false positive"]
+    E -->|valid| H["Results<br/>analysis_summary.csv + packets.csv"]
+    F -->|clear / mixed / scrambled| I["Results<br/>mpegts_summary.csv + programs + scrambling"]
+    H --> J["Human review &amp; presentation"]
+    I --> J
+    H -.->|proposed, not built| K["Triage agent<br/>flags candidates by threshold"]
+    K -.-> J
+
+    classDef ok fill:#e8f5e9,stroke:#2f8f4e,color:#1a241f
+    classDef drop fill:#fbe9e4,stroke:#b5502f,color:#1a241f
+    classDef proposed fill:#efeaf7,stroke:#6b5fa6,stroke-dasharray: 4 3,color:#1a241f
+    class H,I ok
+    class G drop
+    class K proposed
 ```
-capture.ts  (raw DVB-S2 baseband)
-     │
-     ▼
-dontlookup.py
-     │
-     ├── *.ip.pcap      ──►  analyze_ip.py
-     │
-     └── *.mpegts       ──►  analyze_mpegts.py
-```
+
+The dashed node is a proposed triage layer — not implemented — that would flag candidate files for human review (e.g. by public-IP share or plaintext fraction vs. random baseline) without taking any automated action itself.
 
 ---
 

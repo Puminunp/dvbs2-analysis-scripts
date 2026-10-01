@@ -1,0 +1,230 @@
+file,program_id,program_num,service_name,service_provider,stream_index,codec_type,codec_name,width,height,avg_frame_rate,sample_rate,language
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,1,1,,,1,video,mpeg2video,720,480,30000/1001,,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,1,1,,,24,audio,mp3,,,0/0,48000,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,1,1,,,25,audio,ac3,,,0/0,0,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,2,2,,,10,video,mpeg2video,528,480,30000/1001,,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,2,2,,,16,audio,mp3,,,0/0,48000,eng
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,4,4,,,14,video,mpeg2video,720,480,30000/1001,,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,4,4,,,12,audio,mp3,,,0/0,0,eng
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,4,4,,,26,audio,mp3,,,0/0,0,eng
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,5,5,,,3,audio,mp3,,,0/0,48000,spa
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,7,7,,,6,audio,mp3,,,0/0,48000,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,8,8,,,13,video,mpeg2video,720,480,30000/1001,,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,8,8,,,15,audio,mp3,,,0/0,48000,eng
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,9,9,,,23,audio,mp3,,,0/0,48000,hun
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,10,10,,,1,video,mpeg2video,720,480,30000/1001,,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,10,10,,,24,audio,mp3,,,0/0,48000,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,10,10,,,25,audio,ac3,,,0/0,0,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,11,11,,,8,video,mpeg2video,352,480,30000/1001,,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,11,11,,,4,audio,mp3,,,0/0,48000,und
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,11,11,,,9,audio,ac3,,,0/0,0,und
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,12,12,,,5,video,mpeg2video,720,480,30000/1001,,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,12,12,,,2,audio,mp3,,,0/0,48000,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,15,15,,,17,audio,mp3,,,0/0,48000,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,26,26,,,18,audio,mp3,,,0/0,48000,esp
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,71,71,,,20,video,mpeg2video,0,0,0/0,,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,71,71,,,7,audio,mp3,,,0/0,48000,eng
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,71,71,,,21,audio,mp3,,,0/0,48000,eng
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,71,71,,,11,audio,mp3,,,0/0,48000,eng
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,71,71,,,22,audio,mp3,,,0/0,48000,eng
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,112,112,,,0,audio,mp3,,,0/0,48000,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,113,113,,,19,audio,mp3,,,0/0,48000,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,201,201,,,1,video,mpeg2video,720,480,30000/1001,,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,201,201,,,24,audio,mp3,,,0/0,48000,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,201,201,,,25,audio,ac3,,,0/0,0,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,202,202,,,5,video,mpeg2video,720,480,30000/1001,,
+97.0W_11842.485_H_22000_(2026-05-19 19.47.47)_dump.ts.dvbs2.mpegts,202,202,,,2,audio,mp3,,,0/0,48000,
+97.0W_11925.985_H_7273_(2026-05-19 19.49.57)_dump.ts.dvbs2.mpegts,,,,,0,video,mpeg2video,720,480,0/0,,
+97.0W_11925.985_H_7273_(2026-05-19 19.49.57)_dump.ts.dvbs2.mpegts,,,,,1,audio,mp3,,,0/0,48000,
+97.0W_11925.985_H_7273_(2026-05-19 19.49.57)_dump.ts.dvbs2.mpegts,,,,,2,audio,mp3,,,0/0,0,
+97.0W_11925.985_H_7273_(2026-05-19 19.49.57)_dump.ts.dvbs2.mpegts,,,,,3,audio,mp3,,,0/0,48000,
+97.0W_11925.985_H_7273_(2026-05-19 19.49.57)_dump.ts.dvbs2.mpegts,,,,,4,audio,mp3,,,0/0,0,
+97.0W_11925.985_H_7273_(2026-05-19 19.49.57)_dump.ts.dvbs2.mpegts,,,,,5,audio,mp3,,,0/0,48000,
+97.0W_11966.479_H_21600_(2026-05-20 17.14.48)_dump.ts.dvbs2.mpegts,813,813,SABA World Promo,,0,video,h264,1920,1080,25/1,,
+97.0W_11966.479_H_21600_(2026-05-20 17.14.48)_dump.ts.dvbs2.mpegts,813,813,SABA World Promo,,1,audio,mp3,,,0/0,0,und
+97.0W_11966.479_H_21600_(2026-05-20 17.14.48)_dump.ts.dvbs2.mpegts,819,819,SABA World Promo,,6,video,h264,0,0,0/0,,
+97.0W_11966.479_H_21600_(2026-05-20 17.14.48)_dump.ts.dvbs2.mpegts,819,819,SABA World Promo,,12,audio,mp3,,,0/0,0,und
+97.0W_11966.479_H_21600_(2026-05-20 17.14.48)_dump.ts.dvbs2.mpegts,829,829,SABA World Promo,,7,video,h264,1920,1080,25/1,,
+97.0W_11966.479_H_21600_(2026-05-20 17.14.48)_dump.ts.dvbs2.mpegts,829,829,SABA World Promo,,11,audio,mp3,,,0/0,0,und
+97.0W_11966.479_H_21600_(2026-05-20 17.14.48)_dump.ts.dvbs2.mpegts,1522,1522,SABA World Promo,,9,video,h264,0,0,0/0,,
+97.0W_11966.479_H_21600_(2026-05-20 17.14.48)_dump.ts.dvbs2.mpegts,1522,1522,SABA World Promo,,13,audio,mp3,,,0/0,0,und
+97.0W_11966.479_H_21600_(2026-05-20 17.14.48)_dump.ts.dvbs2.mpegts,1531,1531,PRESS TV,IRIB,3,video,h264,1920,1080,25/1,,
+97.0W_11966.479_H_21600_(2026-05-20 17.14.48)_dump.ts.dvbs2.mpegts,1531,1531,PRESS TV,IRIB,10,audio,mp3,,,0/0,48000,eng
+97.0W_11966.479_H_21600_(2026-05-20 17.14.48)_dump.ts.dvbs2.mpegts,1532,1532,HISPAN TV,IRIB,8,video,h264,720,576,25/1,,
+97.0W_11966.479_H_21600_(2026-05-20 17.14.48)_dump.ts.dvbs2.mpegts,1532,1532,HISPAN TV,IRIB,4,audio,mp3,,,0/0,48000,eng
+97.0W_11966.479_H_21600_(2026-05-20 17.14.48)_dump.ts.dvbs2.mpegts,1533,1533,iFILM ENGLISH,IRIB,5,video,h264,720,576,25/1,,
+97.0W_11966.479_H_21600_(2026-05-20 17.14.48)_dump.ts.dvbs2.mpegts,1533,1533,iFILM ENGLISH,IRIB,2,audio,mp3,,,0/0,48000,eng
+97.0W_12009.479_H_2501_(2026-05-20 17.25.43)_dump.ts.dvbs2.mpegts,20500,20500,,,0,data,bin_data,,,0/0,,
+97.0W_12009.479_H_2501_(2026-05-20 17.25.43)_dump.ts.dvbs2.mpegts,20501,20501,,,0,data,bin_data,,,0/0,,
+97.0W_12009.479_H_2501_(2026-05-20 17.25.43)_dump.ts.dvbs2.mpegts,40000,40000,,,1,data,bin_data,,,0/0,,
+97.0W_12009.479_H_2501_(2026-05-20 17.25.43)_dump.ts.dvbs2.mpegts,40001,40001,,,1,data,bin_data,,,0/0,,
+97.0W_12009.483_V_2501_(2026-05-20 18.30.31)_dump.ts.dvbs2.mpegts,20500,20500,,,0,data,bin_data,,,0/0,,
+97.0W_12009.483_V_2501_(2026-05-20 18.30.31)_dump.ts.dvbs2.mpegts,20501,20501,,,0,data,bin_data,,,0/0,,
+97.0W_12009.483_V_2501_(2026-05-20 18.30.31)_dump.ts.dvbs2.mpegts,40000,40000,,,1,data,bin_data,,,0/0,,
+97.0W_12009.483_V_2501_(2026-05-20 18.30.31)_dump.ts.dvbs2.mpegts,40001,40001,,,1,data,bin_data,,,0/0,,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7791,7791,Supreme Master TV,,14,video,mpeg2video,640,480,30000/1001,,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7791,7791,Supreme Master TV,,10,audio,mp2,,,0/0,48000,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7793,7793,BogBlag TV,,4,video,h264,1920,1080,30000/1001,,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7793,7793,BogBlag TV,,18,audio,mp3,,,0/0,48000,eng
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7796,7796,Silk Way,,13,video,h264,0,0,0/0,,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7796,7796,Silk Way,,27,audio,mp3,,,0/0,48000,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7796,7796,Silk Way,,36,audio,mp3,,,0/0,48000,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7796,7796,Silk Way,,34,audio,mp3,,,0/0,48000,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7796,7796,Silk Way,,32,audio,mp2,,,0/0,48000,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7796,7796,Silk Way,,40,audio,mp3,,,0/0,0,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7796,7796,Silk Way,,37,audio,mp3,,,0/0,48000,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7797,7797,KENTRON TV,,2,video,h264,720,480,30000/1001,,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7798,7798,CJTL Radio,,28,audio,mp3,,,0/0,48000,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7800,7800,It Is Written,,21,video,h264,1920,1080,30000/1001,,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7800,7800,It Is Written,,7,audio,mp2,,,0/0,48000,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7801,7801,TV TRWAM HD,,6,video,h264,1920,1080,30000/1001,,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7801,7801,TV TRWAM HD,,30,audio,mp3,,,0/0,48000,pol
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7803,7803,Coming soon 1,,44,video,h264,0,0,0/0,,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7803,7803,Coming soon 1,,45,audio,mp3,,,0/0,0,eng
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7804,7804,Coming soon 2,,42,video,h264,0,0,0/0,,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7804,7804,Coming soon 2,,43,audio,mp3,,,0/0,0,eng
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7805,7805,Coming soon 3,,46,video,h264,0,0,0/0,,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7805,7805,Coming soon 3,,47,audio,mp3,,,0/0,0,eng
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7807,7807,TVR International,,3,video,h264,720,480,30000/1001,,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7807,7807,TVR International,,39,audio,mp3,,,0/0,0,rum
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7808,7808,Salvation TV,,5,video,h264,720,480,30000/1001,,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7808,7808,Salvation TV,,33,audio,mp3,,,0/0,48000,eng
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7810,7810,RUDAW TV,,11,video,h264,0,0,0/0,,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7810,7810,RUDAW TV,,25,audio,mp3,,,0/0,48000,eng
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7810,7810,RUDAW TV,,15,audio,mp2,,,0/0,48000,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7810,7810,RUDAW TV,,38,audio,mp3,,,0/0,48000,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7813,7813,CTN HD,,8,video,h264,1920,1080,30000/1001,,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7813,7813,CTN HD,,29,audio,mp3,,,0/0,48000,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7814,7814,3ABN S2-Music Radio,,16,audio,mp3,,,0/0,48000,eng
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7815,7815,3ABN S2-Radio,,35,audio,mp3,,,0/0,48000,eng
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7816,7816,S2-Radio74,,22,audio,mp3,,,0/0,48000,eng
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7817,7817,3ABN S2-Latino Radio,,19,audio,mp2,,,0/0,48000,spa
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7818,7818,3ABN S2,,12,video,h264,1920,1080,30000/1001,,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7818,7818,3ABN S2,,9,audio,mp2,,,0/0,48000,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7818,7818,3ABN S2,,41,data,,,,0/0,,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7819,7819,Amazing Facts TV HD,,1,video,h264,0,0,0/0,,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7819,7819,Amazing Facts TV HD,,31,audio,mp3,,,0/0,48000,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7821,7821,FirstLight,,17,video,h264,0,0,0/0,,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7821,7821,FirstLight,,24,audio,mp3,,,0/0,48000,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7822,7822,Quo Vadis TV,,20,video,h264,720,480,30000/1001,,
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7822,7822,Quo Vadis TV,,26,audio,mp3,,,0/0,48000,eng
+97.0W_12027.979_H_22000_(2026-05-20 17.31.15)_dump.ts.dvbs2.mpegts,7901,7901,Radio Maryja Radio,,23,audio,mp3,,,0/0,48000,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,2,2,,,7,video,mpeg2video,720,480,30000/1001,,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,2,2,,,33,audio,mp3,,,0/0,48000,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,11,11,,,2,audio,mp2,,,0/0,48000,eng
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,11,11,,,17,video,mpeg2video,640,480,30000/1001,,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,13,13,,,12,audio,mp3,,,0/0,48000,eng
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,15,15,,,6,video,mpeg2video,640,480,30000/1001,,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,15,15,,,3,audio,mp3,,,0/0,48000,und
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,19,19,,,15,audio,mp3,,,0/0,48000,eng
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,21,21,,,1,video,h264,720,576,30000/1001,,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,21,21,,,32,audio,mp3,,,0/0,48000,eng
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,23,23,,,0,audio,mp3,,,0/0,48000,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,26,26,,,21,video,mpeg2video,720,480,30000/1001,,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,26,26,,,25,audio,ac3,,,0/0,0,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,318,318,,,31,video,mpeg2video,528,480,30000/1001,,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,318,318,,,19,audio,mp2,,,0/0,48000,eng
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,318,318,,,10,audio,ac3,,,0/0,0,eng
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,319,319,,,20,video,mpeg2video,528,480,30000/1001,,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,319,319,,,23,audio,mp3,,,0/0,48000,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,319,319,,,28,audio,ac3,,,0/0,0,eng
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,321,321,,,14,video,mpeg2video,528,480,30000/1001,,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,321,321,,,22,audio,mp3,,,0/0,48000,eng
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,321,321,,,24,audio,ac3,,,0/0,48000,eng
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,322,322,,,13,video,mpeg2video,528,480,30000/1001,,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,322,322,,,5,audio,mp2,,,0/0,48000,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,322,322,,,30,audio,ac3,,,0/0,0,eng
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,380,380,,,16,video,mpeg1video,544,480,50/1,,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,380,380,,,9,audio,mp3,,,0/0,48000,ara
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,381,381,,,4,video,mpeg2video,720,480,30000/1001,,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,381,381,,,8,audio,mp3,,,0/0,48000,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,382,382,,,11,audio,mp3,,,0/0,48000,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,524,524,,,26,video,mpeg1video,544,480,30000/1001,,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,524,524,,,27,audio,mp3,,,0/0,48000,
+97.0W_12052.974_V_22000_(2026-05-19 20.02.05)_dump.ts.dvbs2.mpegts,525,525,,,18,audio,mp3,,,0/0,48000,eng
+97.0W_12080.980_H_7273_(2026-05-20 17.42.14)_dump.ts.dvbs2.mpegts,,,,,0,,,,,0/0,,
+97.0W_12080.980_H_7273_(2026-05-20 17.42.14)_dump.ts.dvbs2.mpegts,,,,,1,audio,mp3,,,0/0,0,
+97.0W_12080.980_H_7273_(2026-05-20 17.42.14)_dump.ts.dvbs2.mpegts,,,,,2,audio,mp3,,,0/0,0,
+97.0W_12080.980_H_7273_(2026-05-20 17.42.14)_dump.ts.dvbs2.mpegts,,,,,3,audio,mp3,,,0/0,0,
+97.0W_12080.980_H_7273_(2026-05-20 17.42.14)_dump.ts.dvbs2.mpegts,,,,,4,audio,mp3,,,0/0,0,
+97.0W_12080.980_H_7273_(2026-05-20 17.42.14)_dump.ts.dvbs2.mpegts,,,,,5,audio,mp3,,,0/0,0,
+97.0W_12080.980_H_7273_(2026-05-20 17.42.14)_dump.ts.dvbs2.mpegts,,,,,6,audio,mp3,,,0/0,0,
+97.0W_12080.980_H_7273_(2026-05-20 17.42.14)_dump.ts.dvbs2.mpegts,,,,,7,audio,mp3,,,0/0,0,
+97.0W_12080.980_H_7273_(2026-05-20 17.42.14)_dump.ts.dvbs2.mpegts,,,,,8,audio,mp3,,,0/0,0,
+97.0W_12080.980_H_7273_(2026-05-20 17.42.14)_dump.ts.dvbs2.mpegts,,,,,9,audio,mp3,,,0/0,0,
+97.0W_12080.980_H_7273_(2026-05-20 17.42.14)_dump.ts.dvbs2.mpegts,,,,,10,audio,mp3,,,0/0,0,
+97.0W_12083.970_V_20760_(2026-05-19 20.04.30)_dump.ts.dvbs2.mpegts,1,1,,,2,video,mpeg2video,544,480,30000/1001,,
+97.0W_12083.970_V_20760_(2026-05-19 20.04.30)_dump.ts.dvbs2.mpegts,1,1,,,5,audio,mp3,,,0/0,48000,eng
+97.0W_12083.970_V_20760_(2026-05-19 20.04.30)_dump.ts.dvbs2.mpegts,2,2,,,0,video,mpeg2video,544,480,30000/1001,,
+97.0W_12083.970_V_20760_(2026-05-19 20.04.30)_dump.ts.dvbs2.mpegts,2,2,,,1,audio,mp3,,,0/0,48000,eng
+97.0W_12083.970_V_20760_(2026-05-19 20.04.30)_dump.ts.dvbs2.mpegts,3,3,,,3,video,mpeg2video,544,480,30000/1001,,
+97.0W_12083.970_V_20760_(2026-05-19 20.04.30)_dump.ts.dvbs2.mpegts,3,3,,,7,audio,mp3,,,0/0,48000,eng
+97.0W_12083.970_V_20760_(2026-05-19 20.04.30)_dump.ts.dvbs2.mpegts,7,7,,,6,video,mpeg2video,544,480,30000/1001,,
+97.0W_12083.970_V_20760_(2026-05-19 20.04.30)_dump.ts.dvbs2.mpegts,7,7,,,8,audio,mp2,,,0/0,48000,eng
+97.0W_12083.970_V_20760_(2026-05-19 20.04.30)_dump.ts.dvbs2.mpegts,8,8,,,4,video,mpeg2video,544,480,30000/1001,,
+97.0W_12083.970_V_20760_(2026-05-19 20.04.30)_dump.ts.dvbs2.mpegts,8,8,,,9,audio,mp2,,,0/0,48000,eng
+97.0W_12145.970_V_21999_(2026-05-19 20.07.05)_dump.ts.dvbs2.mpegts,802,802,OMAN TV HD,GLOBECAST,0,video,h264,1920,1080,30000/1001,,
+97.0W_12145.970_V_21999_(2026-05-19 20.07.05)_dump.ts.dvbs2.mpegts,802,802,OMAN TV HD,GLOBECAST,1,audio,mp3,,,0/0,0,
+97.0W_12145.970_V_21999_(2026-05-19 20.07.05)_dump.ts.dvbs2.mpegts,803,803,SUDAN TV,GLOBECAST,4,video,mpeg2video,544,480,30000/1001,,
+97.0W_12145.970_V_21999_(2026-05-19 20.07.05)_dump.ts.dvbs2.mpegts,803,803,SUDAN TV,GLOBECAST,2,audio,mp3,,,0/0,48000,
+97.0W_12145.970_V_21999_(2026-05-19 20.07.05)_dump.ts.dvbs2.mpegts,805,805,AL EKHBARIYA,GLOBECAST,3,video,mpeg2video,544,480,30000/1001,,
+97.0W_12145.970_V_21999_(2026-05-19 20.07.05)_dump.ts.dvbs2.mpegts,805,805,AL EKHBARIYA,GLOBECAST,5,audio,mp3,,,0/0,48000,eng
+97.0W_12145.970_V_21999_(2026-05-19 20.07.05)_dump.ts.dvbs2.mpegts,808,808,CANAL ALGERIE,GLOBECAST,14,video,mpeg2video,544,480,30000/1001,,
+97.0W_12145.970_V_21999_(2026-05-19 20.07.05)_dump.ts.dvbs2.mpegts,808,808,CANAL ALGERIE,GLOBECAST,13,audio,mp3,,,0/0,0,fre
+97.0W_12145.970_V_21999_(2026-05-19 20.07.05)_dump.ts.dvbs2.mpegts,812,812,JORDAN TV,GLOBECAST,6,video,mpeg2video,544,480,30000/1001,,
+97.0W_12145.970_V_21999_(2026-05-19 20.07.05)_dump.ts.dvbs2.mpegts,812,812,JORDAN TV,GLOBECAST,8,audio,mp3,,,0/0,0,
+97.0W_12145.970_V_21999_(2026-05-19 20.07.05)_dump.ts.dvbs2.mpegts,815,815,KUWAIT TV1 (Delay 7/8h),GLOBECAST,10,video,mpeg2video,1920,1080,30000/1001,,
+97.0W_12145.970_V_21999_(2026-05-19 20.07.05)_dump.ts.dvbs2.mpegts,815,815,KUWAIT TV1 (Delay 7/8h),GLOBECAST,12,audio,mp3,,,0/0,0,ara
+97.0W_12145.970_V_21999_(2026-05-19 20.07.05)_dump.ts.dvbs2.mpegts,816,816,KTV AL AKHBAR (Delay 7/8h),GLOBECAST,11,video,mpeg2video,1920,1080,30000/1001,,
+97.0W_12145.970_V_21999_(2026-05-19 20.07.05)_dump.ts.dvbs2.mpegts,816,816,KTV AL AKHBAR (Delay 7/8h),GLOBECAST,9,audio,mp3,,,0/0,0,ara
+97.0W_12145.970_V_21999_(2026-05-19 20.07.05)_dump.ts.dvbs2.mpegts,824,824,PROGRAM ONE,GLOBECAST,7,audio,mp3,,,0/0,0,ara
+97.0W_12145.970_V_21999_(2026-05-19 20.07.05)_dump.ts.dvbs2.mpegts,825,825,RADIO QURAN,GLOBECAST,15,audio,mp3,,,0/0,48000,ara
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,5,5,,,0,audio,mp3,,,0/0,48000,eng
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,7,7,,,15,video,mpeg2video,544,480,30000/1001,,
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,7,7,,,1,audio,mp3,,,0/0,0,
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,8,8,,,9,video,mpeg2video,544,480,30000/1001,,
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,8,8,,,19,audio,mp3,,,0/0,48000,ara
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,9,9,,,13,video,mpeg2video,544,480,30000/1001,,
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,9,9,,,17,audio,mp3,,,0/0,48000,ara
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,10,10,,,8,video,h264,1920,1080,30000/1001,,
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,10,10,,,16,audio,mp3,,,0/0,48000,eng
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,16,16,,,11,video,mpeg2video,528,480,30000/1001,,
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,16,16,,,2,audio,mp3,,,0/0,48000,ger
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,20,20,,,7,video,mpeg2video,720,480,30000/1001,,
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,20,20,,,12,audio,mp3,,,0/0,48000,eng
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,22,22,,,10,video,mpeg2video,480,480,30000/1001,,
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,22,22,,,5,audio,mp2,,,0/0,48000,
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,604,604,,,3,audio,mp3,,,0/0,0,ara
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,605,605,,,4,audio,mp3,,,0/0,0,
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,608,608,,,14,video,mpeg2video,544,480,30000/1001,,
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,608,608,,,6,audio,mp3,,,0/0,0,por
+97.0W_12151.976_H_20000_(2026-05-20 17.47.40)_dump.ts.dvbs2.mpegts,609,609,,,18,audio,mp3,,,0/0,48000,por
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,1,1,Duna World,SES,7,video,mpeg2video,720,480,30000/1001,,
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,1,1,Duna World,SES,10,audio,mp3,,,0/0,48000,eng
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,2,2,ANGEL TV G-19,ANGEL TV,0,audio,mp3,,,0/0,48000,eng
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,2,2,ANGEL TV G-19,ANGEL TV,1,video,h264,720,480,30000/1001,,
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,2,2,ANGEL TV G-19,ANGEL TV,2,audio,mp3,,,0/0,48000,eng
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,3,3,Qatar TV HD ,Globecast Americas,8,video,h264,0,0,0/0,,
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,3,3,Qatar TV HD ,Globecast Americas,14,audio,mp3,,,0/0,48000,
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,4,4,MTA8 Main (USA),,4,video,h264,1920,1080,30000/1001,,
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,4,4,MTA8 Main (USA),,20,audio,mp2,,,0/0,48000,hin
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,6,6,MTA3 (USA),,3,video,h264,0,0,0/0,,
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,6,6,MTA3 (USA),,13,audio,mp2,,,0/0,48000,ara
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,6,6,MTA3 (USA),,21,audio,mp3,,,0/0,48000,eng
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,7,7,MTA8 Urdu Trans,,4,video,h264,1920,1080,30000/1001,,
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,7,7,MTA8 Urdu Trans,,11,audio,mp3,,,0/0,48000,urd
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,8,8,MTA8 English Trans,,4,video,h264,1920,1080,30000/1001,,
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,8,8,MTA8 English Trans,,19,audio,mp2,,,0/0,48000,eng
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,9,9,MTA8 French Trans,,4,video,h264,1920,1080,30000/1001,,
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,9,9,MTA8 French Trans,,12,audio,mp3,,,0/0,48000,fra
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,10,10,MTA8 German Trans,,4,video,h264,1920,1080,30000/1001,,
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,10,10,MTA8 German Trans,,5,audio,mp2,,,0/0,48000,deu
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,11,11,MTA8 Arabic Trans,,4,video,h264,1920,1080,30000/1001,,
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,11,11,MTA8 Arabic Trans,,6,audio,mp3,,,0/0,48000,ara
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,12,12,MTA8 Bengali Trnas,,4,video,h264,1920,1080,30000/1001,,
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,12,12,MTA8 Bengali Trnas,,18,audio,mp3,,,0/0,48000,ben
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,13,13,MTA8 Spanish Trans,,4,video,h264,1920,1080,30000/1001,,
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,13,13,MTA8 Spanish Trans,,15,audio,mp2,,,0/0,48000,spa
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,157,157,Kossuth Radio,Harmonic,17,audio,mp3,,,0/0,48000,hun
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,1100,1100,Galaxy_TV,Intelsat,9,video,h264,0,0,0/0,,
+97.0W_12183.465_H_22499_(2026-05-20 17.53.10)_dump.ts.dvbs2.mpegts,1100,1100,Galaxy_TV,Intelsat,16,audio,aac,,,0/0,48000,

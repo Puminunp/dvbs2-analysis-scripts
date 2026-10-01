@@ -20,18 +20,12 @@ flowchart TD
     F -->|clear / mixed / scrambled| I["Results<br/>mpegts_summary.csv + programs + scrambling"]
     H --> J["Human review &amp; presentation"]
     I --> J
-    H -.->|proposed, not built| K["Triage agent<br/>flags candidates by threshold"]
-    K -.-> J
 
     classDef ok fill:#e8f5e9,stroke:#2f8f4e,color:#1a241f
     classDef drop fill:#fbe9e4,stroke:#b5502f,color:#1a241f
-    classDef proposed fill:#efeaf7,stroke:#6b5fa6,stroke-dasharray: 4 3,color:#1a241f
     class H,I ok
     class G drop
-    class K proposed
 ```
-
-The dashed node is a proposed triage layer — not implemented — that would flag candidate files for human review (e.g. by public-IP share or plaintext fraction vs. random baseline) without taking any automated action itself.
 
 ---
 
